@@ -58,6 +58,10 @@ The format for this file is to have each hashtag separated by line, example:
 I
 Love
 Python
+
+I
+love 
+java c++ c
 ```
 
 Then run:
